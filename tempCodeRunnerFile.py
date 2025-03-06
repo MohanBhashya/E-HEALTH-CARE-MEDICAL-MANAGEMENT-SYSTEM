@@ -1,5 +1,0 @@
-
-
-# tkinter window
-
-class Application:
